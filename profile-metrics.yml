@@ -1,0 +1,49 @@
+name: Update profile metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub profile data
+        env:
+          USERNAME: KennethKpn
+        run: |
+          curl -s https://api.github.com/users/$USERNAME > profile.json
+
+      - name: Extract live metrics
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+
+          const data = JSON.parse(fs.readFileSync('profile.json', 'utf8'));
+          const repos = data.public_repos || 0;
+          const followers = data.followers || 0;
+          const following = data.following || 0;
+
+          fs.writeFileSync('profile-metrics.txt', `
+          Repositories: ${repos}
+          Followers: ${followers}
+          Following: ${following}
+          `);
+
+          console.log(`Repos: ${repos}`);
+          console.log(`Followers: ${followers}`);
+          console.log(`Following: ${following}`);
+          NODE
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile.json profile-metrics.txt
+          git commit -m "Update profile metrics" || true
+          git push
