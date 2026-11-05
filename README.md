@@ -1,8 +1,11 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer;React+%26+TypeScript+Specialist;UI%2FUX+Builder;Product-focused+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer" />
 
   <h1>KPANOU Kenneth</h1>
+
+  <img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
+  <p><sub>Ocean GIF by <a href="https://github.com/david15tonon/david15tonon">david15tonon</a></sub></p>
 
   <p>
     <strong>Full-Stack Developer</strong> • <strong>UI/UX Designer</strong> • <strong>React • TypeScript</strong>
@@ -167,4 +170,4 @@ I work at the intersection of engineering, design, and product execution, turnin
 
 <p align="center">
   <i>“Turning ideas into polished digital experiences.”</i>
-</p>:
+</p>
