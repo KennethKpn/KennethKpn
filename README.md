@@ -4,6 +4,14 @@
 
   <h1>KPANOU Kenneth</h1>
 
+  <a href="https://verify.skilljar.com/c/jshitiofo33z">
+    <img src="https://img.shields.io/badge/ANTHROPIC%20ACADEMY-CERTIFIED%20%E2%80%A2%20CLAUDE%20WITH%20THE%20ANTHROPIC%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Academy — Claude with the Anthropic API certification. Click to verify." />
+  </a>
+  <br />
+  <strong>🏆 Claude with the Anthropic API</strong><br />
+  <sub>Certified by Anthropic Academy · Completed November 6, 2026 · <a href="https://verify.skilljar.com/c/jshitiofo33z">Verify credential ↗</a></sub>
+  <br /><br />
+
   <img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
   <p><sub>Ocean GIF by <a href="https://github.com/david15tonon/david15tonon">david15tonon</a></sub></p>
 
