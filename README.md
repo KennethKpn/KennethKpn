@@ -1,202 +1,233 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+digital+products+with+code+%2B+AI" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer, UI/UX Designer" />
 
-  <h1>KPANOU Kenneth</h1>
+# KPANOU Kenneth
 
-  <a href="https://verify.skilljar.com/c/jshitiofo33z">
-    <img src="https://img.shields.io/badge/ANTHROPIC_EDUCATION-COURSE_COMPLETION-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Education — Certificate of Completion for Claude with the Anthropic API. Click to verify." />
-  </a>
-  <br />
-  <sub>Claude with the Anthropic API · Certificate of Completion · November 6, 2026 · <a href="https://verify.skilljar.com/c/jshitiofo33z">Verify credential ↗</a></sub>
-  <br /><br />
+**Full-Stack Developer · UI/UX Designer · React · TypeScript · AI-assisted product development**
 
-  <img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
-  <p><sub>Ocean GIF by <a href="https://github.com/david15tonon/david15tonon">david15tonon</a></sub></p>
+<a href="https://github.com/KennethKpn">
+  <img src="https://img.shields.io/badge/GitHub-KennethKpn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KennethKpn" />
+</a>
+<a href="https://github.com/KennethKpn?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20repositories-Explore-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=KennethKpn&label=Profile+Views&color=D97757&style=for-the-badge" alt="Profile views" />
 
-  <p>
-    <strong>Full-Stack Developer</strong> • <strong>UI/UX Designer</strong> • <strong>React • TypeScript</strong>
-  </p>
+<br /><br />
 
-  <img src="https://img.shields.io/badge/Available%20for%20freelance-Open%20to%20work-22C55E?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Worldwide-0A84FF?style=for-the-badge&logo=location&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Web%20Experience-8B5CF6?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=KennethKpn&label=Profile+Views&color=7C3AED&style=flat-square" />
+<img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
+
+<sub>Engineering, product thinking and visual design — from idea to polished web experience.</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About me
 
-I design and build modern digital experiences with a strong focus on:
-- clean architecture
-- strong product thinking
-- high-quality UI/UX
-- smooth user experiences
-- scalable and maintainable code
+I build **modern web products and digital experiences** with a strong focus on the intersection of:
 
-I work at the intersection of engineering, design, and product execution, turning ideas into polished and efficient web experiences.
+- 🧠 **Product thinking** — turning an idea into a usable experience
+- ⚙️ **Engineering** — maintainable, responsive and production-oriented code
+- 🎨 **UI/UX** — visual hierarchy, interaction design and responsive interfaces
+- 🤖 **AI** — practical use of modern AI APIs, agents and AI-assisted workflows
 
----
+My work spans **frontend engineering, full-stack product development, UI/UX design and digital experiences**.
 
-## 🎓 Certifications & Continuous Learning
-
-<div align="center">
-
-  <a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/certificates/anthropic-claude-api.svg" alt="Anthropic Education — Certificate of Completion: Claude with the Anthropic API, awarded to Kenneth KPANOU on November 6, 2026." width="100%" />
-  </a>
-
-  <h3>Claude with the Anthropic API</h3>
-  <p><strong>Anthropic Education</strong> · Certificate of Completion · November 6, 2026</p>
-
-  <a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-Skilljar-2F4858?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verify certificate on Skilljar" />
-  </a>
-
-  <br />
-  <sub>This is a course-completion certificate. The issuing platform is the source of truth for credential verification.</sub>
-
-</div>
+> I care about the last 10%: the details that make a product feel finished.
 
 ---
 
-## 🔥 Core Strengths
+## 🏅 Verified credentials
 
-- Full-stack web development
-- React / Next.js / TypeScript
-- Responsive UI/UX design
-- API development and integration
-- Frontend architecture
-- Performance optimization
-- Scalable product interfaces
+### Official certificate
+
+<a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/certificates/anthropic-claude-api.svg" alt="Anthropic Education — Certificate of Completion: Claude with the Anthropic API, awarded to Kenneth KPANOU on November 6, 2026." width="100%" />
+</a>
+
+**Claude with the Anthropic API**  
+**Anthropic Education · Certificate of Completion · November 6, 2026**
+
+<a href="https://verify.skilljar.com/c/jshitiofo33z">
+  <img src="https://img.shields.io/badge/VERIFY%20CERTIFICATE-Skilljar-2F4858?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verify Anthropic Education certificate" />
+</a>
+
+### Claude Academy — verified completion badges
+
+<a href="https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/certificates/claude-academy-ai-capabilities.svg" alt="Claude Academy — AI capabilities and limitations — verified completion badge for Kenneth KPANOU." width="100%" />
+</a>
+
+<a href="https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/certificates/claude-academy-api-badge.svg" alt="Claude Academy — Building with the Claude API — verified completion badge for Kenneth KPANOU." width="100%" />
+</a>
+
+| Credential | Issuer | Date | Verification |
+|---|---|---:|---|
+| **Claude with the Anthropic API** — Certificate of Completion | Anthropic Education | Nov 6, 2026 | [Verify](https://verify.skilljar.com/c/jshitiofo33z) |
+| **AI capabilities and limitations** — Completion Badge | Claude Academy | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71) |
+| **Building with the Claude API** — Completion Badge | Claude Academy | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb) |
+
+> **Credential terminology:** the Anthropic Education item above is a course-completion certificate. The two Claude Academy items are verified completion badges. They are intentionally presented separately rather than being labelled as professional certification exams.
 
 ---
 
-## 🧠 Tech Stack
-
-### Languages
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🛠️ Core stack
 
 ### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+### Backend & data
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,python" alt="Node.js Express PostgreSQL MySQL MongoDB Python" />
 
-### Backend
+### Product & delivery
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" alt="Git GitHub Docker Vercel Figma" />
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+### AI & modern web workflows
 
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-### DevOps / Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+**Claude API · AI-assisted development · MCP · API integration · agent-oriented workflows · prompt engineering**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennethKpn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethKpn&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennethKpn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🚀 Projects & Highlights
+## 🚀 Selected work
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>Portfolio / Personal Brand</h3>
-      <p>Modern portfolio built to present projects, skills, and work quality with a polished, product-first design.</p>
-      <a href="https://github.com/KennethKpn">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Product & Web Experience</h3>
-      <p>Interfaces crafted for clarity, performance, usability, and strong visual identity with clean engineering behind them.</p>
-      <a href="https://github.com/KennethKpn">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### UNYVON
+**Business product / SaaS**
+
+A digital business-management product focused on practical operations and decision-making.
+
+**Stack:** Next.js / React / TypeScript
+
+<a href="https://github.com/KennethKpn/UNYVON">
+<img src="https://img.shields.io/badge/Repository-Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="UNYVON repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Iconlabs
+**Digital studio**
+
+A digital-agency experience covering design, web development, responsive interfaces and digital strategy.
+
+**Stack:** HTML / CSS / JavaScript
+
+<a href="https://github.com/KennethKpn/Iconlabs">
+<img src="https://img.shields.io/badge/Repository-Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iconlabs repository" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Portfolio
+**Personal product / interactive portfolio**
+
+A retro-inspired interactive portfolio designed to present projects, skills and verified professional information.
+
+**Focus:** UX / interaction / responsive design
+
+<a href="https://github.com/KennethKpn/Portfolio">
+<img src="https://img.shields.io/badge/Repository-Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### SISTER-Birthday
+**Interactive creative experience**
+
+A cinematic birthday experience combining storytelling, photography, motion and interactive wishes.
+
+**Stack:** React / TypeScript / Vite / Tailwind CSS
+
+<a href="https://github.com/KennethKpn/SISTER-Birthday">
+<img src="https://img.shields.io/badge/Repository-Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="SISTER-Birthday repository" />
+</a>
+
+</td>
+</tr>
 </table>
 
----
-
-## 🧩 What I Build
-
-- Modern landing pages
-- Business dashboards
-- SaaS interfaces
-- Custom portfolio and personal brand sites
-- Internal tools and admin systems
-- UX-first product experiences
+**More work:** [browse all public repositories →](https://github.com/KennethKpn?tab=repositories)
 
 ---
 
-## 📌 Current Focus
+## 🎯 What I build
 
-- Building polished digital products
-- Improving UX and frontend architecture
-- Learning modern product workflows
-- Creating scalable and elegant interfaces
+- 🌐 Modern websites and landing pages
+- 📊 Business dashboards and internal tools
+- 🧩 SaaS / product interfaces
+- ⚛️ React & Next.js applications
+- 🎨 UI/UX systems and responsive experiences
+- 🔌 API integrations and full-stack features
+- 🤖 AI-powered interfaces and API integrations
+- ✨ Interactive / cinematic web experiences
 
 ---
 
-## 🤝 Connect
+## 📈 GitHub activity
 
 <div align="center">
 
-  <a href="https://github.com/KennethKpn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=KennethKpn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="175" alt="Kenneth Kpn GitHub statistics" />
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethKpn&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="175" alt="Kenneth Kpn top languages" />
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KennethKpn&theme=transparent&hide_border=true" alt="Kenneth Kpn GitHub contribution streak" />
 
 </div>
 
 ---
 
-<p align="center">
-  <i>“Turning ideas into polished digital experiences.”</i>
-</p>
+## 🧭 Current direction
+
+**Building digital products where engineering, design and AI meet.**
+
+Current interests include:
+
+- AI-assisted software development
+- Claude / API-based AI experiences
+- Product-oriented frontend architecture
+- High-quality responsive UI
+- Design systems and interaction design
+- Shipping practical products for real users
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/KennethKpn">
+<img src="https://img.shields.io/badge/GitHub-KennethKpn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://github.com/KennethKpn/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-View%20project-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio project" />
+</a>
+
+<br /><br />
+
+<sub>Open to thoughtful collaborations, product work and ambitious web experiences.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Refine. Ship.
+
+<sub>© Kenneth Kpn · Benin</sub>
+
+</div>
