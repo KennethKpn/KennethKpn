@@ -5,11 +5,10 @@
   <h1>KPANOU Kenneth</h1>
 
   <a href="https://verify.skilljar.com/c/jshitiofo33z">
-    <img src="https://img.shields.io/badge/ANTHROPIC%20ACADEMY-CERTIFIED%20%E2%80%A2%20CLAUDE%20WITH%20THE%20ANTHROPIC%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Academy — Claude with the Anthropic API certification. Click to verify." />
+    <img src="https://img.shields.io/badge/ANTHROPIC_EDUCATION-COURSE_COMPLETION-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Education — Certificate of Completion for Claude with the Anthropic API. Click to verify." />
   </a>
   <br />
-  <strong>🏆 Claude with the Anthropic API</strong><br />
-  <sub>Certified by Anthropic Academy · Completed November 6, 2026 · <a href="https://verify.skilljar.com/c/jshitiofo33z">Verify credential ↗</a></sub>
+  <sub>Claude with the Anthropic API · Certificate of Completion · November 6, 2026 · <a href="https://verify.skilljar.com/c/jshitiofo33z">Verify credential ↗</a></sub>
   <br /><br />
 
   <img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
@@ -38,6 +37,28 @@ I design and build modern digital experiences with a strong focus on:
 - scalable and maintainable code
 
 I work at the intersection of engineering, design, and product execution, turning ideas into polished and efficient web experiences.
+
+---
+
+## 🎓 Certifications & Continuous Learning
+
+<div align="center">
+
+  <a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/certificates/anthropic-claude-api.svg" alt="Anthropic Education — Certificate of Completion: Claude with the Anthropic API, awarded to Kenneth KPANOU on November 6, 2026." width="100%" />
+  </a>
+
+  <h3>Claude with the Anthropic API</h3>
+  <p><strong>Anthropic Education</strong> · Certificate of Completion · November 6, 2026</p>
+
+  <a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-Skilljar-2F4858?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verify certificate on Skilljar" />
+  </a>
+
+  <br />
+  <sub>This is a course-completion certificate. The issuing platform is the source of truth for credential verification.</sub>
+
+</div>
 
 ---
 
