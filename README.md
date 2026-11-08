@@ -12,6 +12,9 @@
 <a href="https://github.com/KennethKpn?tab=repositories">
   <img src="https://img.shields.io/badge/Public%20repositories-Explore-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
 </a>
+<a href="https://myportfolio-kpnproject.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-Open%20Desk%2095-0B6E69?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the live Desk 95 portfolio" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=KennethKpn&label=Profile+Views&color=D97757&style=for-the-badge" alt="Profile views" />
 
 <br /><br />
@@ -44,10 +47,10 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
 **4 verifiable learning credentials · 3 recognised technology providers**
 
 <div align="center">
-
-<a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png" alt="IBM SkillsBuild — User Experience Design Fundamentals verified digital badge" width="156" />
-</a>
+  <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png" alt="IBM SkillsBuild — User Experience Design Fundamentals verified digital badge" width="156" />
+  </a>
+</div>
 
 ### IBM SkillsBuild · User Experience Design Fundamentals
 
@@ -55,10 +58,10 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
 
 UX foundations: user research, personas, wireframes, prototyping, usability testing and UX collaboration.
 
-<a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/VERIFY%20BADGE-Credly-7B1FA2?style=for-the-badge&logo=credly&logoColor=white" alt="Verify IBM SkillsBuild UX badge on Credly" />
-</a>
-
+<div align="center">
+  <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VERIFY%20BADGE-Credly-7B1FA2?style=for-the-badge&logo=credly&logoColor=white" alt="Verify IBM SkillsBuild UX badge on Credly" />
+  </a>
 </div>
 
 ### Anthropic Education · Certificate of Completion
