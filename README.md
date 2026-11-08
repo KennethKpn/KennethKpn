@@ -4,13 +4,16 @@
 
 # KPANOU Kenneth
 
-**Full-Stack Developer · UI/UX Designer · React · TypeScript · AI-assisted product development**
+**Full-Stack Developer · UX/UI & Product Design · React · TypeScript · AI-assisted product development**
 
 <a href="https://github.com/KennethKpn">
   <img src="https://img.shields.io/badge/GitHub-KennethKpn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KennethKpn" />
 </a>
 <a href="https://github.com/KennethKpn?tab=repositories">
   <img src="https://img.shields.io/badge/Public%20repositories-Explore-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
+</a>
+<a href="https://myportfolio-kpnproject.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-Open%20Desk%2095-0B6E69?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the live Desk 95 portfolio" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=KennethKpn&label=Profile+Views&color=D97757&style=for-the-badge" alt="Profile views" />
 
@@ -30,7 +33,7 @@ I build **modern web products and digital experiences** with a strong focus on t
 
 - 🧠 **Product thinking** — turning an idea into a usable experience
 - ⚙️ **Engineering** — maintainable, responsive and production-oriented code
-- 🎨 **UI/UX** — visual hierarchy, interaction design and responsive interfaces
+- 🎨 **UX/UI & Product Design** — user research, personas, wireframes, prototyping, usability testing and responsive interfaces
 - 🤖 **AI** — practical use of modern AI APIs, agents and AI-assisted workflows
 
 My work spans **frontend engineering, full-stack product development, UI/UX design and digital experiences**.
@@ -41,7 +44,27 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
 
 ## 🏅 Verified credentials
 
-### Official certificate
+**4 verifiable learning credentials · 3 recognised technology providers**
+
+<div align="center">
+  <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png" alt="IBM SkillsBuild — User Experience Design Fundamentals verified digital badge" width="156" />
+  </a>
+</div>
+
+### IBM SkillsBuild · User Experience Design Fundamentals
+
+**Verified Digital Badge · November 8, 2026**
+
+UX foundations: user research, personas, wireframes, prototyping, usability testing and UX collaboration.
+
+<div align="center">
+  <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VERIFY%20BADGE-Credly-7B1FA2?style=for-the-badge&logo=credly&logoColor=white" alt="Verify IBM SkillsBuild UX badge on Credly" />
+  </a>
+</div>
+
+### Anthropic Education · Certificate of Completion
 
 <a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
   <img src="./assets/certificates/anthropic-claude-api.svg" alt="Anthropic Education — Certificate of Completion: Claude with the Anthropic API, awarded to Kenneth KPANOU on November 6, 2026." width="100%" />
@@ -50,11 +73,11 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
 **Claude with the Anthropic API**  
 **Anthropic Education · Certificate of Completion · November 6, 2026**
 
-<a href="https://verify.skilljar.com/c/jshitiofo33z">
+<a href="https://verify.skilljar.com/c/jshitiofo33z" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VERIFY%20CERTIFICATE-Skilljar-2F4858?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verify Anthropic Education certificate" />
 </a>
 
-### Claude Academy — verified completion badges
+### Claude Academy · Verified Course Completion Badges
 
 <a href="https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71" target="_blank" rel="noopener noreferrer">
   <img src="./assets/certificates/claude-academy-ai-capabilities.svg" alt="Claude Academy — AI capabilities and limitations — verified completion badge for Kenneth KPANOU." width="100%" />
@@ -64,13 +87,14 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
   <img src="./assets/certificates/claude-academy-api-badge.svg" alt="Claude Academy — Building with the Claude API — verified completion badge for Kenneth KPANOU." width="100%" />
 </a>
 
-| Credential | Issuer | Date | Verification |
-|---|---|---:|---|
-| **Claude with the Anthropic API** — Certificate of Completion | Anthropic Education | Nov 6, 2026 | [Verify](https://verify.skilljar.com/c/jshitiofo33z) |
-| **AI capabilities and limitations** — Completion Badge | Claude Academy | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71) |
-| **Building with the Claude API** — Completion Badge | Claude Academy | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb) |
+| Credential | Issuer | Exact credential type | Date | Verification |
+|---|---|---|---:|---|
+| **User Experience Design Fundamentals** | IBM SkillsBuild | Digital Badge | Nov 8, 2026 | [Verify on Credly](https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da) |
+| **Claude with the Anthropic API** | Anthropic Education | Certificate of Completion | Nov 6, 2026 | [Verify on Skilljar](https://verify.skilljar.com/c/jshitiofo33z) |
+| **AI capabilities and limitations** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71) |
+| **Building with the Claude API** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb) |
 
-> **Credential terminology:** the Anthropic Education item above is a course-completion certificate. The two Claude Academy items are verified completion badges. They are intentionally presented separately rather than being labelled as professional certification exams.
+> **Credential terminology:** IBM SkillsBuild issued a verifiable **Digital Badge**; Anthropic Education issued a **Certificate of Completion**; Claude Academy issued two **Course Completion Badges**. Each item keeps its source title and exact type. None is mislabelled as a professional exam certification.
 
 ---
 
