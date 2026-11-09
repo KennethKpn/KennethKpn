@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer+%7[...]
 
 # KPANOU Kenneth
 
@@ -19,7 +19,7 @@
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/2ea44f/KennethKpn" alt="Kenneth Kpn's GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
 
 <sub>Engineering, product thinking and visual design — from idea to polished web experience.</sub>
 
