@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+digital+products+with+code+%2B+AI" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer, UI/UX Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer" alt="Hello, I'm Kenneth Kpn — Full-Stack Developer" />
 
 # KPANOU Kenneth
 
@@ -19,7 +19,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
+<img src="https://ghchart.rshah.org/2ea44f/KennethKpn" alt="Kenneth Kpn's GitHub contribution graph" width="100%" />
 
 <sub>Engineering, product thinking and visual design — from idea to polished web experience.</sub>
 
@@ -94,7 +94,7 @@ UX foundations: user research, personas, wireframes, prototyping, usability test
 | **AI capabilities and limitations** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71) |
 | **Building with the Claude API** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb) |
 
-> **Credential terminology:** IBM SkillsBuild issued a verifiable **Digital Badge**; Anthropic Education issued a **Certificate of Completion**; Claude Academy issued two **Course Completion Badges**. Each item keeps its source title and exact type. None is mislabelled as a professional exam certification.
+> **Credential terminology:** IBM SkillsBuild issued a verifiable **Digital Badge**; Anthropic Education issued a **Certificate of Completion**; Claude Academy issued two **Course Completion Badges**.
 
 ---
 
