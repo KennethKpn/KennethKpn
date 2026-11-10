@@ -1,9 +1,4 @@
 <div align="center">
-
-# KPANOU Kenneth
-
-**Full-Stack Developer · UX/UI & Product Design · React · TypeScript · AI-assisted product development**
-
 <a href="https://github.com/KennethKpn">
   <img src="https://img.shields.io/badge/GitHub-KennethKpn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KennethKpn" />
 </a>
