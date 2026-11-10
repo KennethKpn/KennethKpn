@@ -19,7 +19,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/david15tonon/david15tonon/output/ocean.gif" alt="Animated ocean" width="100%" />
+<img src="./assets/contribution-skyline.gif" alt="Animated ocean" width="100%" />
 
 <sub>Engineering, product thinking and visual design — from idea to polished web experience.</sub>
 
