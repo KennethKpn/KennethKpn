@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I'm+Kenneth+Kpn;Full-Stack+Developer+%7[...]
-
 # KPANOU Kenneth
 
 **Full-Stack Developer · UX/UI & Product Design · React · TypeScript · AI-assisted product development**
