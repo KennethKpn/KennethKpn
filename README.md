@@ -176,6 +176,24 @@ A cinematic birthday experience combining storytelling, photography, motion and 
 
 **More work:** [browse all public repositories →](https://github.com/KennethKpn?tab=repositories)
 
+
+## 🧪 Practical project experience
+
+### GitHub Skills · Idea to Merge with the Copilot App
+
+**Hands-on project · 5/5 steps passed · November 2026**
+
+Took Mona's Bookmark Manager from a tracked idea to a tested, merged v1, then documented the next-release plan and converted its priorities into follow-up issues.
+
+- **GitHub workflow:** repository instructions, tracked issues, an isolated feature branch, reviewed pull requests, merges and roadmap-driven follow-up.
+- **Implementation:** Astro and JavaScript bookmark manager with URL normalization, locally generated base62 `mona-` slugs and defensive browser `localStorage` persistence.
+- **Quality checks:** five Node.js unit tests, a successful production build, a Playwright browser run and a committed proof screenshot.
+
+**Project evidence:** [Exercise repository](https://github.com/KennethKpn/learning-github-education) · [PR #5 — Copilot instructions](https://github.com/KennethKpn/learning-github-education/pull/5) · [PR #6 — Bookmark Manager v1](https://github.com/KennethKpn/learning-github-education/pull/6) · [PR #7 — Roadmap](https://github.com/KennethKpn/learning-github-education/pull/7) · [Playwright proof](https://github.com/KennethKpn/learning-github-education/blob/main/submission/demo-proof.png)
+
+**Next-release work:** [Search and filter bookmarks](https://github.com/KennethKpn/learning-github-education/issues/9) · [Prevent duplicate slugs](https://github.com/KennethKpn/learning-github-education/issues/8)
+
+
 ---
 
 ## 🎯 What I build
