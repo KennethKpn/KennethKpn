@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/GitHub-KennethKpn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KennethKpn" />
 </a>
 <a href="https://github.com/KennethKpn?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I%27m+Kenneth+Kpn;Full-Stack+Developer;UX%2FUI+%26+Product+Designer;Building+modern+web+experiences" alt="Hello, I'm Kenneth KPANOU — Full-Stack Developer, UX/UI and Product Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=980&lines=Hello%2C+I%27m+Kenneth+KPANOU;Full-Stack+Developer;UX%2FUI+%26+Product+Designer;Building+modern+web+experiences" alt="Hello, I'm Kenneth KPANOU — Full-Stack Developer, UX/UI and Product Designer" />
 </a>
 <a href="https://myportfolio-kpnproject.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live%20Portfolio-Open%20Desk%2095-0B6E69?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the live Desk 95 portfolio" />
