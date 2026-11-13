@@ -37,7 +37,7 @@ My work spans **frontend engineering, full-stack product development, UI/UX desi
 
 ## 🏅 Verified credentials
 
-**4 verifiable learning credentials · 3 recognised technology providers**
+**5 verifiable learning credentials · 4 recognised technology providers**
 
 <div align="center">
   <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
@@ -54,6 +54,23 @@ UX foundations: user research, personas, wireframes, prototyping, usability test
 <div align="center">
   <a href="https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VERIFY%20BADGE-Credly-7B1FA2?style=for-the-badge&logo=credly&logoColor=white" alt="Verify IBM SkillsBuild UX badge on Credly" />
+  </a>
+</div>
+
+### Microsoft · Pro Badge: GitHub Copilot — Proficient
+
+<a href="https://www.credly.com/earner/earned/badge/8cadab5b-4645-4e00-ba3f-c2b2a2e857f7" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/certificates/microsoft-github-copilot-proficient.svg" alt="Microsoft Pro Badge: GitHub Copilot — Proficient, verified on Credly for Kenneth KPANOU." width="100%" />
+</a>
+
+**GitHub Copilot — Proficient**  
+**Microsoft · Verified Pro Badge · November 11, 2026 · Expires May 11, 2027**
+
+A verified proficiency credential based on demonstrated real-world GitHub Copilot use. Microsoft describes Pro Badge as a credential distinct from a certification: it recognizes how effectively a product is applied in everyday work rather than testing knowledge in a separate exam. citeturn139696search1turn139696search3
+
+<div align="center">
+  <a href="https://www.credly.com/earner/earned/badge/8cadab5b-4645-4e00-ba3f-c2b2a2e857f7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VERIFY%20BADGE-Credly-0078D4?style=for-the-badge&logo=credly&logoColor=white" alt="Verify Microsoft GitHub Copilot Pro Badge on Credly" />
   </a>
 </div>
 
@@ -82,12 +99,13 @@ UX foundations: user research, personas, wireframes, prototyping, usability test
 
 | Credential | Issuer | Exact credential type | Date | Verification |
 |---|---|---|---:|---|
+| **GitHub Copilot — Proficient** | Microsoft | Pro Badge · Verified Proficiency | Nov 11, 2026 · expires May 11, 2027 | [Verify on Credly](https://www.credly.com/earner/earned/badge/8cadab5b-4645-4e00-ba3f-c2b2a2e857f7) |
 | **User Experience Design Fundamentals** | IBM SkillsBuild | Digital Badge | Nov 8, 2026 | [Verify on Credly](https://www.credly.com/badges/d2fbad1e-6788-4c7f-a77d-d8f2726801da) |
 | **Claude with the Anthropic API** | Anthropic Education | Certificate of Completion | Nov 6, 2026 | [Verify on Skilljar](https://verify.skilljar.com/c/jshitiofo33z) |
 | **AI capabilities and limitations** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/c4e4cc5f3d7dda4bae246fa4e00eca71) |
 | **Building with the Claude API** | Claude Academy | Course Completion Badge | Nov 7, 2026 | [Verify](https://academy.claude.com/verify/e6d6cacb0bd49e296d1863c3aefb28bb) |
 
-> **Credential terminology:** IBM SkillsBuild issued a verifiable **Digital Badge**; Anthropic Education issued a **Certificate of Completion**; Claude Academy issued two **Course Completion Badges**.
+> **Credential terminology:** Microsoft issued a **Pro Badge** based on Verified Proficiency; IBM SkillsBuild issued a verifiable **Digital Badge**; Anthropic Education issued a **Certificate of Completion**; Claude Academy issued two **Course Completion Badges**. Microsoft Pro Badge is intentionally presented as a credential, not as a Microsoft Certification. It remains current only while the qualifying proficiency is maintained. citeturn139696search1turn139696search3
 
 ---
 
@@ -104,7 +122,7 @@ UX foundations: user research, personas, wireframes, prototyping, usability test
 
 ### AI & modern web workflows
 
-**Claude API · AI-assisted development · MCP · API integration · agent-oriented workflows · prompt engineering**
+**Claude API · GitHub Copilot · AI-assisted development · MCP · API integration · agent-oriented workflows · prompt engineering**
 
 ---
 
