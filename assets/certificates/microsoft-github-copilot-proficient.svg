@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Microsoft Pro Badge — GitHub Copilot — Proficient</title>
+<desc id="desc">Microsoft Pro Badge recognizing Proficient-level GitHub Copilot productivity for Kenneth KPANOU, issued November 11, 2026 and expiring May 11, 2027.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d16"/><stop offset="1" stop-color="#151c2a"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6d3cff"/><stop offset="1" stop-color="#4c20c8"/></linearGradient>
+</defs>
+<rect width="1200" height="420" rx="28" fill="#05070b"/>
+<rect x="16" y="16" width="1168" height="388" rx="24" fill="url(#bg)" stroke="#414958" stroke-width="4"/>
+<polygon points="118,210 235,94 352,210 235,326" fill="none" stroke="#414958" stroke-width="28"/>
+<polygon points="148,210 235,123 322,210 235,297" fill="none" stroke="url(#violet)" stroke-width="24"/>
+<circle cx="235" cy="210" r="42" fill="#303949"/>
+<path d="M206 206c0-18 13-30 31-30 12 0 22 5 28 14 3 4 5 9 6 15-8-5-15-6-21-4-8 2-13 8-16 16-3 8-8 12-14 12-8 0-14-8-14-23z" fill="#10151f"/>
+<text x="410" y="105" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#9a8bff">MICROSOFT PRO BADGE</text>
+<text x="410" y="166" font-family="Georgia,serif" font-size="39" font-weight="700" fill="#ffffff">GitHub Copilot — Proficient</text>
+<text x="410" y="212" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#cbd1dc">Verified proficiency demonstrated through real-world product use.</text>
+<rect x="410" y="250" width="190" height="50" rx="25" fill="url(#violet)"/>
+<text x="449" y="282" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#fff">PROFICIENT</text>
+<text x="410" y="338" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#9ea7b7">Issued November 11, 2026 · Expires May 11, 2027</text>
+<text x="410" y="370" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#737d8f">Issued by Microsoft · Verification hosted by Credly</text>
+</svg>
