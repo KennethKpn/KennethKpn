@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="./assets/contribution-skyline.gif" alt="Animated ocean" width="78%" />
+
 
 <sub>Engineering, product thinking and visual design — from idea to polished web experience.</sub>
 
@@ -282,5 +282,5 @@ Current interests include:
 ### ⚡ Build. Refine. Ship.
 
 <sub>© Kenneth Kpn · Benin</sub>
-
+<img src="./assets/contribution-skyline.gif" alt="Animated ocean" width="78%" />
 </div>
